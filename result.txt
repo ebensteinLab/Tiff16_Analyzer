@@ -1,0 +1,77 @@
+
+Number of files: 10
+
+
+*** Image-1    : GThr-6573, GMinSS-4, GMaxSS-200000, RThr-1119, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (1).tif - Mean-1079.76, STD-2746.74
+* Green Channel: NOSD-30, MinSS-144, MaxSS-1343, MinSL-53.60, MaxSL-392.50
+Red (1).tif - Mean-309.29, STD-270.15
+* Red Channel: NOSD-392, MinSS-4, MaxSS-55
+
+*** Image-2    : GThr-7290, GMinSS-4, GMaxSS-200000, RThr-1080, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (2).tif - Mean-1017.47, STD-3136.33
+* Green Channel: NOSD-23, MinSS-167, MaxSS-1762, MinSL-52.17, MaxSL-481.75
+Red (2).tif - Mean-303.51, STD-258.97
+* Red Channel: NOSD-325, MinSS-4, MaxSS-54
+
+*** Image-3    : GThr-7355, GMinSS-4, GMaxSS-200000, RThr-1073, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (3).tif - Mean-1003.89, STD-3175.64
+* Green Channel: NOSD-20, MinSS-181, MaxSS-1459, MinSL-61.96, MaxSL-243.75
+Red (3).tif - Mean-303.82, STD-256.58
+* Red Channel: NOSD-331, MinSS-4, MaxSS-49
+
+*** Image-4    : GThr-6593, GMinSS-4, GMaxSS-200000, RThr-1077, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (4).tif - Mean-929.23, STD-2832.24
+* Green Channel: NOSD-15, MinSS-191, MaxSS-767, MinSL-51.96, MaxSL-211.19
+Red (4).tif - Mean-304.40, STD-257.64
+* Red Channel: NOSD-354, MinSS-4, MaxSS-73
+
+*** Image-5    : GThr-7154, GMinSS-4, GMaxSS-200000, RThr-1091, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (5).tif - Mean-979.39, STD-3087.71
+* Green Channel: NOSD-23, MinSS-154, MaxSS-1663, MinSL-52.37, MaxSL-470.64
+Red (5).tif - Mean-303.51, STD-262.52
+* Red Channel: NOSD-312, MinSS-4, MaxSS-67
+
+*** Image-6    : GThr-8267, GMinSS-4, GMaxSS-200000, RThr-1084, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (6).tif - Mean-1265.52, STD-3501.06
+* Green Channel: NOSD-15, MinSS-192, MaxSS-1077, MinSL-51.58, MaxSL-319.50
+Red (6).tif - Mean-304.70, STD-259.97
+* Red Channel: NOSD-337, MinSS-4, MaxSS-34
+
+*** Image-7    : GThr-7221, GMinSS-4, GMaxSS-200000, RThr-1089, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (7).tif - Mean-1022.16, STD-3099.83
+* Green Channel: NOSD-16, MinSS-154, MaxSS-1444, MinSL-53.72, MaxSL-404.04
+Red (7).tif - Mean-305.79, STD-261.27
+* Red Channel: NOSD-358, MinSS-4, MaxSS-44
+
+*** Image-8    : GThr-8662, GMinSS-4, GMaxSS-200000, RThr-1128, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (8).tif - Mean-1274.59, STD-3694.03
+* Green Channel: NOSD-20, MinSS-186, MaxSS-1923, MinSL-53.43, MaxSL-485.97
+Red (8).tif - Mean-307.27, STD-273.58
+* Red Channel: NOSD-335, MinSS-4, MaxSS-62
+
+*** Image-9    : GThr-7817, GMinSS-4, GMaxSS-200000, RThr-1086, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (9).tif - Mean-1137.14, STD-3339.94
+* Green Channel: NOSD-12, MinSS-200, MaxSS-2013, MinSL-61.25, MaxSL-512.53
+Red (9).tif - Mean-303.99, STD-260.84
+* Red Channel: NOSD-335, MinSS-4, MaxSS-50
+
+*** Image-10   : GThr-7266, GMinSS-4, GMaxSS-200000, RThr-1084, RMinSS-4, RMaxSS-100, redDBC-300.00, redPO-50.00,
+Green (10).tif - Mean-1036.10, STD-3115.27
+* Green Channel: NOSD-29, MinSS-188, MaxSS-1601, MinSL-52.49, MaxSL-456.21
+Red (10).tif - Mean-303.99, STD-260.20
+* Red Channel: NOSD-333, MinSS-4, MaxSS-49
+
+
+ImageNum || Green Length | Red Intensity | Red Number | First Ratio | Second Ratio
+---------||--------------|---------------|------------|-------------|-------------
+ 1       || 4304.11      | 673747        | 78         | 156.53566  | 0.01812     
+ 2       || 3611.89      | 765064        | 77         | 211.81812  | 0.02132     
+ 3       || 2749.02      | 468669        | 55         | 170.48583  | 0.02001     
+ 4       || 1783.14      | 355830        | 42         | 199.55279  | 0.02355     
+ 5       || 3257.33      | 668734        | 66         | 205.30113  | 0.02026     
+ 6       || 2219.81      | 412658        | 50         | 185.89800  | 0.02252     
+ 7       || 2399.16      | 673445        | 69         | 280.70071  | 0.02876     
+ 8       || 3034.28      | 627676        | 55         | 206.86146  | 0.01813     
+ 9       || 2323.14      | 537525        | 56         | 231.37910  | 0.02411     
+ 10      || 4896.82      | 959711        | 106        | 195.98665  | 0.02165     
